@@ -1,10 +1,11 @@
 import logo from './logo.svg';
+import CoinContainer from './CoinContainer';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      
+      <CoinContainer />
     
     </div>
   );
